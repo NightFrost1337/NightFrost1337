@@ -35,6 +35,6 @@ NightFrost1337
 
 [Discord](https://discord.gg/AJyvpt2pYf)
 
-[Discord](NightFrost#0001)
+[Discord] NightFrost#0001
 
 [YouTube](https://www.youtube.com/channel/UCgc3Rl5CuWwxh0rRVutdPLw)
