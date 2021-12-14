@@ -5,7 +5,7 @@ NightFrost1337
 <br>
 
 
-## 🔧 My Server Discord
+## 🔧 My Server Discord:
 <h1 align="center">
 	<h1> https://discord.gg/AJyvpt2pYf </h1>
   <h1> https://github.com/NightFrost1337 </h1>
@@ -14,7 +14,7 @@ NightFrost1337
 
 <br>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats:
 
 <h1 align="center">
 <a href="https://github.com/NightFrost1337">
@@ -31,7 +31,7 @@ NightFrost1337
 </h1>
 
 
-## 📞 Contact me / NightFrost#0001
+## 📞 Contact me / NightFrost#0001:
 
 [Discord](https://discord.gg/AJyvpt2pYf)
 
