@@ -31,10 +31,8 @@ NightFrost1337
 </h1>
 
 
-## 📞 Contact me
+## 📞 Contact me / NightFrost#0001
 
 [Discord](https://discord.gg/AJyvpt2pYf)
-
-[Discord] NightFrost#0001
 
 [YouTube](https://www.youtube.com/channel/UCgc3Rl5CuWwxh0rRVutdPLw)
