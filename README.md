@@ -5,7 +5,7 @@ NightFrost1337
 <br>
 
 
-## 🔧 My Server Discord:
+## 🔧 Informations:
 <h1 align="center">
   <h1> https://github.com/NightFrost1337 </h1>
 	</a>
