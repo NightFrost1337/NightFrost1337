@@ -7,7 +7,6 @@ NightFrost1337
 
 ## 🔧 My Server Discord:
 <h1 align="center">
-	<h1> https://discord.gg/AJyvpt2pYf </h1>
   <h1> https://github.com/NightFrost1337 </h1>
 	</a>
 </h1>
