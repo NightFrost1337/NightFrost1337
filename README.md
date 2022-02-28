@@ -32,6 +32,6 @@ NightFrost1337
 
 ## 📞 Contact me / NightFrost#0001:
 
-[Discord](https://discord.gg/AJyvpt2pYf)
+[Discord](https://discord.gg/lastonsurvivals)
 
-[YouTube](https://www.youtube.com/channel/UCgc3Rl5CuWwxh0rRVutdPLw)
+[Website](https://nightblog.me/)
