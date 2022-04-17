@@ -16,8 +16,6 @@ NightFrost1337
 	</a>
 </h1>
 
-<br>
-
 ## &#x1f4c8; GitHub Stats:
 
 <h1 align="center">
