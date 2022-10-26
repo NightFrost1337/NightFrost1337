@@ -7,7 +7,7 @@ NightFrost1337
 
 ## 🔧 Informations:
 
-<p>I'm a student at school, I'm 15 years old and I love development since I was young ! <br> I live at Aix-En-Provence, in France, yes I'm french. <br> I enjoy many activities like music, sports, video-games, watching animes like My Hero Academia,
+<p>I'm a student at school, I'm 16 years old and I love development since I was young ! <br> I live at Aix-En-Provence, in France, yes I'm french. <br> I enjoy many activities like music, sports, video-games, watching animes like My Hero Academia,
                 Hunter X Hunter etc.. <br> <br> I'm also a developer web or a developer of software like C# or C++ (HTML, CSS & Java), my favourite programming languages is C# and C++ I started learning programming C++ when I have 11 years old.
                 <br> <br> Currently working on a project called Last On Survivals (It's my own game). <br> I like to learn about new technologies and I like to share my knowledge.</p>
 
