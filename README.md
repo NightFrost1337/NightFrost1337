@@ -1,35 +1,84 @@
-<h1 align="center">
-NightFrost1337
-</h1>
 
-## 🔧 Informations:
+<h2 align="center">
 
-<p>I'm a student at school, I'm 16 years old and I love development since I was young ! <br> I live at Aix-En-Provence, in France, yes I'm french. <br> I enjoy many activities like music, sports, video-games, watching animes like My Hero Academia,
-                Hunter X Hunter etc.. <br> <br> I'm also a developer web or a developer of software like C# or C++ (HTML, CSS & Java), my favourite programming languages is C# and C++ I started learning programming C++ when I have 11 years old.
-                <br> <br> Currently working on a project called Last On Survivals (It's my own game). <br> I like to learn about new technologies and I like to share my knowledge.</p>
 
-<br>
+<p align="center">
 
-<h1 align="center">
-  <h1> https://github.com/NightFrost1337 </h1>
-	</a>
-</h1>
 
-## &#x1f4c8; GitHub Stats:
+![NightFrost](https://cdn.discordapp.com/attachments/903746351555297283/1065945140998447114/nf_banner.png)
 
-<h1 align="center">
-<a href="https://github.com/NightFrost1337">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightFrost1337&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</>
-<a href="https://github.com/NightFrost1337">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NightFrost1337&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Crypt0's GitHub Stats" />
-</a>
-<br>
-<a href="https://github.com/NightFrost1337">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NightFrost1337&theme=dark&background=1D1F21" />
-<a/>
-<br>
-</h1>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/fr-fr/cpp/cpp/?view=msvc-170" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://docs.unrealengine.com/4.27/en-US/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p align="center">
+
+[![Website](https://img.shields.io/badge/Website-NightFrost.me-blue?style=for-the-badge)](https://NightFrost.me/)
+
+
+<p align="center">
+    <a href="https://discord.com/users/847097028436688956">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-NightFrost%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+  <a href="https://github.com/NightFrost1337" src="https://user-images.githubusercontent.com/90924656/213680080-36c75c5b-b051-4211-9af0-945528876825.png"></a>
+
+
+   <img alt="Github" src="https://img.shields.io/github/followers/NightFrost1337?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=NightFrost1337)](https://github.com/NightFrost1337/github-profile-trophy)
+
+  ----
+
+
+<p align="center">
+<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" width="300" align/>
+</p>
+
+
+<h2 align="center">Programming languages :</h2>
+
+<p align="center">
+  <div align="center">
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
+  
+  <img alt="C++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a>
+  <img alt="C#" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120"></a> 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+  <img alt="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f"></a>  
+  </div>
+</p>
+
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NightFrost1337&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NightFrost1337&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
+</p>
+  
+
+
+
+<h2 align="center">Contact me :</h2>
+
+- Hey 👋, I'm 16 yo.
+
+- `He/Him` • `French Student` 🇫🇷
+
+- *C++, C#, HTML, CSS, Py & Java.*
+
+- 🏞️・Founder @LOS
+- 🏕️・Dev @Ritmo APP
+</pre><br>
+
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.gg/..">
+    </a>
+</p>
+
+  <p align="center">
+  <i>&nbsp;"I miss it. The blue sky."</i> 
+ </div>
+ 
+  
+<a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
+
+
