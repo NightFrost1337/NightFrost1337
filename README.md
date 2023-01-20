@@ -31,6 +31,8 @@
 <p align="center">
 <img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" width="300" align/>
 </p>
+![image](https://user-images.githubusercontent.com/90924656/213753938-24ad862d-8a31-471d-b28b-683975d76879.png)![image](https://user-images.githubusercontent.com/90924656/213753941-f1d54ded-c1ab-432e-8782-478d6b3a7c59.png)
+
 
 
 <h2 align="center">Programming languages :</h2>
@@ -71,6 +73,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/..">
+        <img title="Discord Server" alt="NightFrost's Discord" src="https://discord.c99.nl/widget/theme-2/847097028436688956.png"/>
     </a>
 </p>
 
