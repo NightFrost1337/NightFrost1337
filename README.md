@@ -20,7 +20,12 @@
   <a href="https://github.com/NightFrost1337" src="https://user-images.githubusercontent.com/90924656/213680080-36c75c5b-b051-4211-9af0-945528876825.png"></a>
 
 
-   <img alt="Github" src="https://img.shields.io/github/followers/NightFrost1337?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+   <img alt="Github" src="https://img.shields.io/github/followers/NightFrost1337?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   ![image](https://user-images.githubusercontent.com/90924656/213828965-87f243dc-395d-4a57-86ae-a3aa49f32ed4.png)![image](https://user-images.githubusercontent.com/90924656/213828966-1513d351-29c3-49ab-be49-7fa34ff45435.png)![image](https://user-images.githubusercontent.com/90924656/213828967-86696c25-8e65-4e83-9c4d-ee54a29db4a0.png)![image](https://user-images.githubusercontent.com/90924656/213828968-c844113d-3622-41a4-bf60-e844ef40a974.png)
+
+
+
+
+   [![github-views](https://komarev.com/ghpvc/?username=NightFrost1337&color=brightgreen)](https://github.com/NightFrost1337)
   
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=NightFrost1337)](https://github.com/NightFrost1337/github-profile-trophy)
