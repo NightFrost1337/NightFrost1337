@@ -5,7 +5,7 @@
 <p align="center">
 
 
-![NightFrost](https://cdn.discordapp.com/attachments/903746351555297283/1065945140998447114/nf_banner.png)
+![NightFrost](https://cdn.discordapp.com/banners/847097028436688956/84c3fe848ef84e47f0b14f776b70e319.png?size=2048)
 
 
 
