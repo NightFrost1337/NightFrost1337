@@ -56,7 +56,7 @@
   
 
 
-<h2 align="center">Contact me :</h2>
+<h2 align="center">Discord Profile :</h2>
 
 - Hey 👋, I'm 16 yo.
 
@@ -68,7 +68,7 @@
 - 🏕️・Dev @Ritmo APP
 </pre><br>
 
-<h2 align="center">Discord Profile</h2><br>
+<h2 align="center">Contact me :</h2><br>
   <p align="center">
     <a href="https://discord.gg/..">
         <img title="Discord Server" alt="NightFrost's Discord" src="https://discord.c99.nl/widget/theme-2/847097028436688956.png"/>
